@@ -1,13 +1,23 @@
-### Hi!
+### Hi there! 👋
 
-- 🔭 I’m currently working on updating my Github profile with Data Science projects done on my spare time.
-- 🌱 I’m currently learning NLP, regression and classification models.
-- 👯 I’m looking to collaborate on any data science project, specially with cloud computing and big data.
-- 🤔 I’m looking for help with cloud computing and handling big data.
-- 💬 Ask me about machine learning and data science rlated topics. I will try my best to help you out.
-- 📫 How to reach me: You can contact me here, on my LinkedIn profile: www.linkedin.com/in/sebastian-kulaga-000a58141 and via email: kulaga.sebastian@gmail.com
-- ⚡ Fun fact: I am enjoying riding my motocycle. I have crested gecko and musk turtle.
+I'm Sebastian Kulaga, a passionate Machine Learning Engineer constantly exploring new technologies and methodologies in data science.
+🚀 About Me
 
-**Background**
+    🔭 I’m currently working on updating my GitHub profile with various ML projects I’ve completed in my spare time.
+    🌱 I’m currently learning about NLP, DSPy, and various regression and classification models.
+    👯 I’m looking to collaborate on any data science projects, especially those involving cloud computing and big data.
+    🤔 I’m seeking help with cloud computing and handling big data.
+    💬 Ask me about machine learning and data science topics. I will try my best to help you out.
+    📫 How to reach me: [LinkedIn](www.linkedin.com/in/sebastian-kulaga-000a58141). | [Email](kulaga.sebastian@gmail.com)
+    ⚡ Fun fact: I enjoy riding my motorcycle and have a crested gecko and a musk turtle.
 
-I graduated from Wrocław University of Science and Technology with Master and Bachelor of Science in Control Studies and Robotics. I have worked in financial field as Junior Data Scientist mostly with OpenCV and Tesseract to create PDF Digitalization and Classification Project. Now I am working with Kedro to create Customer Segmentation Project.
+🎓 **Background**
+
+I graduated from Wrocław University of Science and Technology with a Master's and Bachelor's degree in Control Studies and Robotics.
+Professional Experience
+
+    Machine Learning Engineer
+        Worked with OpenCV and Tesseract to create a PDF Digitalization and Classification Project.
+        Gained experience with Kedro and GitLab pipelines along with Docker containers.
+        Utilized Azure Portal and integrated available ChatGPT models in Python NLP RAG projects.
+        Currently learning DSPy to automatically optimize LLM prompts and create RAG projects.
